@@ -1,1 +1,1 @@
-subject to yahoo new html structure
+subject to the Yahoo news website html structure
